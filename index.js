@@ -6,6 +6,7 @@ module.exports = {
         return `Jon says ${input}`;
     },
     mary: 'Mary',
-    yo: () => 'Yo Brooo'
+    yo: () => 'Yo Brooo',
+    add: (a, b) => a + b,
 };
 
