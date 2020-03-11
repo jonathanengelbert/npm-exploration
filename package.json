@@ -1,0 +1,24 @@
+{
+  "name": "jon-npm-exploration",
+  "version": "1.0.0",
+  "description": "Project to learn how to package modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanengelbert/npm-exploration.git"
+  },
+  "keywords": [
+    "['test'",
+    "'exploration'",
+    "'jon']"
+  ],
+  "author": "jengelbert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathanengelbert/npm-exploration/issues"
+  },
+  "homepage": "https://github.com/jonathanengelbert/npm-exploration#readme"
+}
